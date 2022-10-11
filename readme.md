@@ -62,4 +62,3 @@ Simply follow this link to Git Hub Pages to run this game in any modern web brow
 - Add player splt functionality
 - Add a betting system with chips
 - Further customization
-# blackjack
