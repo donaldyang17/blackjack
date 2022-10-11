@@ -53,7 +53,7 @@ Player Win Splash Page
 
 Simply follow this link to Git Hub Pages to run this game in any modern web browser.
 
-[Git Hub Pages](https://github.com/donaldyang17/blackjack/tree/gh-pages)
+[Git Hub Pages](https://donaldyang17.github.io/blackjack/)
 
 ## Next Steps
 
